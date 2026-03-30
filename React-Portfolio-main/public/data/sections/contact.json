@@ -1,0 +1,106 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long": "**Contact** Me"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+91 8986718104",
+                    "links": [
+                        {"href": "tel:+918986718104"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Phone",
+                            "tags": ["+918986718104"]
+                        }
+                    }
+                },
+
+                {
+                    "value": "krishnasharma0329@gmail.com",
+                    "links": [
+                        {"href": "mailto:krishnasharma0329@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Email",
+                            "tags": ["krishnasharma0329@gmail.com"]
+                        }
+                    }
+                },
+
+                {
+                    "value": "@krishnasharma0329",
+                    "links": [
+                        {"href": "https://linkedin.com/in/krishnasharma0329"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LinkedIn",
+                            "tags": ["https://linkedin.com/in/krishnasharma0329"]
+                        }
+                    }
+                },
+
+                {
+                    "value": "@mr_krishna_sharma._",
+                    "links": [
+                        {"href": "https://instagram.com/mr_krishna_sharma._"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Instagram",
+                            "tags": ["https://instagram.com/mr_krishna_sharma._"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

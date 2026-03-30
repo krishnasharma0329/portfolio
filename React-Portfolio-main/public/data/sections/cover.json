@@ -1,0 +1,304 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Krishna Kumar Sharma!**"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {}
+            },
+            "items": [
+                {
+                    "value": "Lovely Professional University",
+                    "links": [
+                        {
+                            "href": "https://www.lpu.in"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "krishnasharma0329@gmail.com",
+                    "links": [
+                        {
+                            "href": "mailto:krishnasharma0329@gmail.com"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "@krishnasharma0329",
+                    "links": [
+                        {
+                            "href": "https://github.com/krishnasharma0329"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "@krishnasharma0329",
+                    "links": [
+                        {
+                            "href": "https://linkedin.com/in/krishnasharma0329"
+                        }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                },
+                {
+                    "value": "@krishnakumar8877888",
+                    "links": [
+                        {
+                            "href": "https://leetcode.com/u/krishnakumar8877888/"
+                        }
+                    ],
+                    "icon": {
+                        "img": "/images/svg/leetcode.svg",
+                        "fa": "",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "**A little bit** about me..."
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>Passionate Data Science and AI/ML developer with hands-on experience in building ML models, data pipelines, and Big Data processing. Expert in Java with strong experience in building robust backend systems and scalable applications. Skilled in Python, TensorFlow, Scikit-learn, Apache Spark, and Linux-based environments for deploying and managing data workflows. Love turning raw data into meaningful insights and intelligent solutions.</p><p>I love solving real-world problems using Java, AI, ML & Big Data.</p><p>Looking forward to collaborate \u270c\ufe0f</p>"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {
+                    "title": "My **skills** & **interests**"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Programming Languages",
+                            "tags": [
+                                "Java",
+                                "Python",
+                                "C/C++",
+                                "SQL",
+                                "JavaScript"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI/ML & Data Science",
+                            "tags": [
+                                "TensorFlow",
+                                "Scikit-learn",
+                                "Pandas",
+                                "NumPy",
+                                "Matplotlib",
+                                "Seaborn",
+                                "Apache Spark",
+                                "Keras",
+                                "PyTorch",
+                                "OpenCV",
+                                "NLTK",
+                                "Hugging Face"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Databases",
+                            "tags": [
+                                "MongoDB",
+                                "DynamoDB",
+                                "MySQL"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-screwdriver-wrench",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Tools I Use",
+                            "tags": [
+                                "Jupyter Notebook",
+                                "Google Colab",
+                                "VS Code",
+                                "Git/GitHub",
+                                "Postman",
+                                "Tableau",
+                                "Power BI",
+                                "MySQL Workbench"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-laptop-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Other Technologies",
+                            "tags": [
+                                "AWS",
+                                "Linux",
+                                "HTML/CSS",
+                                "REST APIs",
+                                "Hadoop",
+                                "Docker",
+                                "Streamlit",
+                                "Vercel",
+                                "Netlify",
+                                "GitHub Copilot",
+                                "Cursor AI"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-heart",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Personal Interests",
+                            "tags": [
+                                "Cricket",
+                                "Cooking",
+                                "Books"
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "resume",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "My **Resume**",
+                    "text": "<p>Click the button below to download my resume.</p>"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-file-pdf",
+                        "faColors": null
+                    },
+                    "links": [
+                        {
+                            "href": "https://drive.google.com/drive/folders/1KhAUNfCSvyN30eapc8_WhkMOxSfVqFby?usp=drive_link",
+                            "text": "Download Resume"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

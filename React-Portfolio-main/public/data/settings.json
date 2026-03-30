@@ -1,0 +1,60 @@
+{
+    "version": "1.0.0",
+    "animatedCursorEnabled": true,
+    "fullScreenButtonEnabled": true,
+
+    "preloader": {
+        "enabled": true,
+        "title": "React <b>Portfolio</b>",
+        "subtitle": "by Krishna"
+    },
+
+    "profile": {
+        "name": "Krishna Kumar Sharma",
+        "stylizedName": "<strong>Krishna Kumar **Sharma**</strong>",
+        "logoUrl": "images/svg/logo.svg",
+        "profilePictureUrl": "images/pictures/dynamic_pc.gif",
+
+        "locales": {
+            "en": {"role": "ML Engineer | Data Science | Java Expert"}
+        }
+    },
+
+    "status": {
+        "visible": true,
+        "available": true,
+
+        "locales": {
+            "en": {"message": "In Love with Tech! #Open To Work"}
+        }
+    },
+
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "default": true,
+            "icon": "fa-solid fa-moon"
+        },
+
+        {
+            "id": "light",
+            "default": false,
+            "icon": "fa-solid fa-sun"
+        }
+    ],
+
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en.png",
+            "default": true
+        }
+    ],
+
+    "emailjs": {
+        "publicKey": "SVPTCB-bck6fN5eVw",
+        "serviceId": "service_mammx5e",
+        "templateId": "template_qiwsiyq"
+    }
+}

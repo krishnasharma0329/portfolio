@@ -1,0 +1,80 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/lpu.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2023",
+                        "end": "05/31/2027"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**B.Tech** in Computer Science & Engineering",
+                            "info": "Lovely Professional University, Punjab",
+                            "text": "<ul><li>Current CGPA: 7.00</li><li>Focused on Data Science, AI/ML, Java Development and Big Data technologies.</li></ul>",
+                            "tags": ["Data Science", "AI/ML", "Java", "Big Data", "Python"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/kv.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2022",
+                        "end": "03/31/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**12th Standard** (Senior Secondary)",
+                            "info": "PM Shree Kendriya Vidyalaya, CBSE Board",
+                            "text": "<ul><li>Completed Senior Secondary education from CBSE Board.</li></ul>",
+                            "tags": ["Critical Thinking", "Problem Solving", "Analytical Skills", "Time Management", "Academic Excellence"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/kv.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2020",
+                        "end": "03/31/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**10th Standard** (Secondary)",
+                            "info": "PM Shree Kendriya Vidyalaya, CBSE Board",
+                            "text": "<ul><li>Completed Secondary education from CBSE Board.</li></ul>",
+                            "tags": ["Foundation of Science", "Logical Reasoning", "Communication Skills", "Discipline", "Academic Growth"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

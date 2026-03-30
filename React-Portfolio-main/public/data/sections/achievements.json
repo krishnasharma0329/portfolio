@@ -1,0 +1,215 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        }
+    },
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Certificates"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {
+                            "bg": "#232F3E",
+                            "fill": "#FF9900"
+                        }
+                    },
+                    "dates": {
+                        "start": "02/01/2024",
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://drive.google.com/drive/folders/1B1oZ3tK_WpAHI5869on4B1byhFORS94O?usp=drive_link"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Deep Learning and **Deployment on Web**",
+                            "text": "Completed AWS certification covering deep learning fundamentals and deploying ML models on the web."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-layer-group",
+                        "faColors": {
+                            "bg": "#0056D2",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "02/01/2024",
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://coursera.org/share/d480c5e8ea29abdf982952913cc3b428"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "The **Full Stack**",
+                            "text": "Completed Meta's full stack development certification covering front-end, back-end and database technologies."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {
+                            "bg": "#6B2D8B",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "07/16/2025",
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://files.lpu.in/umsweb/skilldevcourse/SkillDevelopmentCertificates/12326671_833_20_08_2025.pdf"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Advanced **DSA**",
+                            "text": "Completed Advanced DSA course covering complex data structures and algorithmic problem solving at LPU Skills Development."
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cloud",
+                        "faColors": {
+                            "bg": "#C8202D",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "dates": {
+                        "start": "04/01/2025",
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "see_certification",
+                            "href": "https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS11S133730094204239516"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Computing \u2014 **NPTEL Elite**",
+                            "text": "Earned NPTEL Elite certification in Cloud Computing from IIT Kharagpur with a score of 62% including perfect assignment score of 25/25."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Awards & Achievements"
+                }
+            },
+            "items": [
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [
+                        {
+                            "string": "more_info",
+                            "href": "https://leetcode.com/u/krishnakumar8877888"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**LeetCode** \u2013 Top 32% in Contests",
+                            "info": "LeetCode",
+                            "text": "Solved 100+ problems on LeetCode and ranked in the top 32% of users in competitive programming contests."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**GeeksForGeeks** \u2013 100+ Problems Solved",
+                            "info": "GeeksForGeeks",
+                            "text": "Consistently practiced and solved 100+ coding problems on GeeksForGeeks, strengthening DSA and problem-solving skills."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Code-A-Hunt Hackathon \u2013 **Top 10 Finalist**",
+                            "info": "Apr 2024",
+                            "text": "Ranked among top 10 teams out of 200+ participants for developing a real-world tech solution."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Volunteer** \u2013 HelpAge India NGO",
+                            "info": "Jul 2024",
+                            "text": "Contributed to health, education, and nutrition programs that positively impacted 100+ families."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": null,
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Zone Level Judo Championship \u2013 **Top 5 Finalist**",
+                            "info": "Nov 2018",
+                            "text": "Represented school at district level, demonstrating discipline, resilience, and competitive excellence."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

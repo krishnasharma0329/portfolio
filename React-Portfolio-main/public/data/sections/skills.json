@@ -1,0 +1,831 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        }
+    },
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**AI/ML** Development",
+                            "text": "I build intelligent ML models and AI-powered applications!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-bar",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Science** & Analytics",
+                            "text": "I turn raw data into meaningful insights and visualizations!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** Management",
+                            "text": "I can handle and manage data effectively!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Java** Development",
+                            "text": "I build robust and scalable backend systems with Java!"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cloud",
+                        "faColors": {
+                            "bg": null,
+                            "fill": null
+                        }
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Cloud** Technologies",
+                            "text": "I have hands-on experience with AWS cloud services!"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "programming_languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Programming Languages"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {
+                            "bg": "#007396",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {
+                            "bg": "#3776AB",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {
+                            "bg": "#00599C",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "C++",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {
+                            "bg": "#E34F26",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {
+                            "bg": "#F7DF1E",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "JavaScript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {
+                            "bg": "#1572B6",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "aiml_tools",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "AI/ML Tools"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": {
+                            "bg": "#FF6F00",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TensorFlow",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-network-wired",
+                        "faColors": {
+                            "bg": "#D00000",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Keras",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-fire",
+                        "faColors": {
+                            "bg": "#EE4C2C",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 62,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PyTorch",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-eye",
+                        "faColors": {
+                            "bg": "#5C3EE8",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 72,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "OpenCV",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-comment-dots",
+                        "faColors": {
+                            "bg": "#154f3c",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 68,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "NLTK",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {
+                            "bg": "#FFD21E",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 64,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Hugging Face",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "datascience_tools",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Data Science Tools"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-pie",
+                        "faColors": {
+                            "bg": "#F2C811",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 89,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Power BI",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cogs",
+                        "faColors": {
+                            "bg": "#F7931E",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Scikit-learn",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table",
+                        "faColors": {
+                            "bg": "#150458",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Pandas",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-calculator",
+                        "faColors": {
+                            "bg": "#4DABCF",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 73,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "NumPy",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": {
+                            "bg": "#11557c",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Matplotlib",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-area",
+                        "faColors": {
+                            "bg": "#4C72B0",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 67,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Seaborn",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-book-open",
+                        "faColors": {
+                            "bg": "#F37626",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 74,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Jupyter Notebook",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cloud",
+                        "faColors": {
+                            "bg": "#F9AB00",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 72,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Google Colab",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-stream",
+                        "faColors": {
+                            "bg": "#FF4B4B",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 69,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Streamlit",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "tools_technologies",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Tools & Technologies"
+                }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git-alt",
+                        "faColors": {
+                            "bg": "#F05032",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {
+                            "bg": "#181717",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GitHub",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {
+                            "bg": "#2496ED",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 63,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linux",
+                        "faColors": {
+                            "bg": "#FCC624",
+                            "fill": "#111"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Linux",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {
+                            "bg": "#232F3E",
+                            "fill": "#FF9900"
+                        }
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AWS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {
+                            "bg": "#4479A1",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "SQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {
+                            "bg": "#00758F",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-leaf",
+                        "faColors": {
+                            "bg": "#47A248",
+                            "fill": "#EEE"
+                        }
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                }
+            },
+            "items": [
+                {
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Read, Write & Speak fluently.",
+                            "tags": [
+                                "Fluent"
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-e",
+                        "faColors": {
+                            "bg": "#012169",
+                            "fill": "#EEE"
+                        }
+                    }
+                },
+                {
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "info": "Native speaker \u2014 Read, Write & Speak.",
+                            "tags": [
+                                "Native"
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-h",
+                        "faColors": {
+                            "bg": "#FF9933",
+                            "fill": "#FFF"
+                        }
+                    }
+                },
+                {
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Maithili",
+                            "info": "Read, Write & Speak.",
+                            "tags": [
+                                "Fluent"
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-m",
+                        "faColors": {
+                            "bg": "#138808",
+                            "fill": "#FFF"
+                        }
+                    }
+                },
+                {
+                    "value": null,
+                    "dates": {
+                        "start": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Punjabi, Bhojpuri, Bengali, Santhali, Avadhi",
+                            "info": "Speak & Understand only.",
+                            "tags": [
+                                "Conversational"
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-language",
+                        "faColors": {
+                            "bg": "#FF9933",
+                            "fill": "#FFF"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

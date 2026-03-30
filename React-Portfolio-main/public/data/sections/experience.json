@@ -1,0 +1,116 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/internpe.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": "05/31/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web Developer** Training",
+                            "info": "<a href='https://internpe.in/' target='_blank' rel='noopener noreferrer' style='color:inherit;text-decoration:underline;'>InternPe (Remote)</a>",
+                            "text": "Participated in a remote front-end web development training at InternPe. Learned and practiced responsive web design, HTML/CSS layouts, and JavaScript fundamentals through hands-on exercises and mini projects.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Responsive Design", "Front-End Development", "UI Basics"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/codtech.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "05/01/2024",
+                        "end": "06/30/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web Developer** Training",
+                            "info": "<a href='https://codtechitsolutions.in/' target='_blank' rel='noopener noreferrer' style='color:inherit;text-decoration:underline;'>CODTECH IT Solutions (Remote)</a>",
+                            "text": "Underwent a structured remote training program at CODTECH IT Solutions focused on web application design and responsive front-end development. Built and styled multiple web projects, improving skills in modern HTML/CSS techniques and JavaScript through practical exercises.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Responsive Design", "Web Application Design", "Front-End Development", "UI Design"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/codingninjasclub.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "05/01/2024",
+                        "end": "09/30/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Technical Team** Member",
+                            "info": "Coding Ninjas LPU · College Club (On-site)",
+                            "text": "Worked as a Technical Team Member in the Coding Ninjas LPU college club at Lovely Professional University. Assisted in planning and executing technical events, coding competitions, and workshops. Developed strong communication, teamwork, and web development skills through hands-on club activities and on-site collaboration.",
+                            "tags": ["Web Development", "Communication", "Team Collaboration", "Event Management", "Problem Solving"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/himsu.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "04/01/2024",
+                        "end": "08/31/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Technical Team** Member",
+                            "info": "HIMSU Club · LPU (On-site)",
+                            "text": "Served as a Technical Team Member at HIMSU Club, Lovely Professional University for over a year. Contributed to planning and executing club projects, technical initiatives, and on-site events. Strengthened teamwork, project planning, and leadership skills through active participation in university-level club activities.",
+                            "tags": ["Teamwork", "Project Planning", "Team Collaboration", "Leadership", "Event Management"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/infosys.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "02/01/2026",
+                        "end": "03/31/2026"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Data Analyst** Intern",
+                            "info": "<a href='https://springboard.infosys.com/' target='_blank' rel='noopener noreferrer' style='color:inherit;text-decoration:underline;'>Infosys Springboard (Virtual)</a>",
+                            "text": "Worked as a Virtual Data Analyst Intern at Infosys Springboard, actively participating in daily meetings and presenting data insights and project progress to the team on a regular basis. Applied statistical analysis and data analytics techniques on real-world datasets, consistently delivering actionable insights and demonstrating strong ownership, professionalism, and communication skills throughout the internship.",
+                            "tags": ["Power BI", "Data Analysis", "Statistical Analysis", "Python", "Excel", "Data Visualization", "Communication", "Problem Solving"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

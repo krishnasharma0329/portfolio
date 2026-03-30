@@ -1,0 +1,202 @@
+{
+    "locales": {
+        "en": {
+            "title": "Projects",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Projects**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "datascience",
+                    "locales": {
+                        "en": {"singular": "Data Science", "plural": "Data Science"}
+                    }
+                },
+                {
+                    "id": "ml",
+                    "locales": {
+                        "en": {"singular": "ML", "plural": "ML"}
+                    }
+                },
+                {
+                    "id": "webdev",
+                    "locales": {
+                        "en": {"singular": "Web Dev", "plural": "Web Dev"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "ml",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-newspaper",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#f72585"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/Real-time-Fake-News-Detector"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Real-time Fake News Detector",
+                            "text": "An AI-powered fake news detection web app that analyzes news articles and social media content in real-time using NLP and Transformer models. Leverages Hugging Face pre-trained models for text classification, providing instant credibility scores with an interactive Streamlit interface.",
+                            "tags": ["Python", "Hugging Face", "Transformers", "NLP", "Streamlit", "Text Classification", "AI"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "datascience",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#f0a500"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/Analysis-of-Indian-Economy-Data-Science-Project-"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Indian Economy Analysis | Decoding Geometry of Growth",
+                            "text": "A Machine Learning web app analyzing 15 years of Indian economic data. Used Python and Scikit-learn for ML algorithms and data cleaning, with Power BI as the major data visualization tool for presenting economic insights.",
+                            "tags": ["Python", "Scikit-learn", "Power BI", "Machine Learning", "Data Cleaning", "Data Visualization", "Streamlit"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "webdev",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-shield-halved",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#e63946"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/Women-safety-App-Real-time-Location-Tracking-"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Women Safety App | Real-time Location Tracking",
+                            "text": "A web application focused on women's safety featuring real-time location tracking using Map API integration. Includes auto-call and auto-SOS features that instantly alert emergency contacts, providing a fast and reliable safety solution.",
+                            "tags": ["Python", "JavaScript", "Maps API", "Real-time Tracking", "SOS Feature", "Web App"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "ml",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-user-check",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#06d6a0"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/Smart-Attendance-System-Face-Recognition"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Smart Attendance System | Face Recognition",
+                            "text": "An AI-powered attendance system using face recognition technology to automatically mark attendance in real-time via webcam. Built with OpenCV and Deep Learning for accurate face detection and recognition, eliminating manual attendance tracking completely.",
+                            "tags": ["Python", "OpenCV", "Deep Learning", "Face Recognition", "Flask", "AI", "Computer Vision"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "datascience",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-utensils",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#f4a261"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/Food-Trends-Product-Insights-Power-BI-Dashboard"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Food Trends & Product Insights | Power BI Dashboard",
+                            "text": "A comprehensive Power BI dashboard developed during the Infosys Springboard virtual internship, analyzing food trends and product insights using data provided by the Infosys team. Visualized key metrics, consumer behavior patterns, and product performance through interactive charts and reports.",
+                            "tags": ["Power BI", "Data Analysis", "Data Visualization", "Dashboard", "Food Analytics", "Business Intelligence"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "ml",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-microphone",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#4cc9f0"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/AI-Speech-Improvement-Assistant"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "AI Speech Improvement Assistant",
+                            "text": "An AI-powered speech improvement assistant built with Python that analyzes and enhances spoken communication skills. Uses SpeechRecognition and PyAudio for voice input, NLTK and Transformers for NLP-based analysis, and gTTS for audio feedback delivery.",
+                            "tags": ["Python", "SpeechRecognition", "PyAudio", "NLTK", "Transformers", "gTTS", "NLP", "AI"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "datascience",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-scale-balanced",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#e63946"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/NCRB-A-Statistical-Overview-of-Crime-in-India"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "NCRB – Statistical Overview of Crime in India",
+                            "text": "A statistical analysis of crime in India using NCRB data, exploring state-wise crime patterns and year-on-year trends. Built with Python, Pandas, and NumPy for data cleaning and analysis, with Matplotlib and Seaborn for visualizing crime distribution across states.",
+                            "tags": ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter Notebook", "EDA", "Data Analysis"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "webdev",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-droplet",
+                        "faColors": {"bg": "#1a1a2e", "fill": "#48cae4"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/krishnasharma0329/water-pollution-website"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Water Pollution Awareness Website",
+                            "text": "A responsive awareness website built to educate people about water pollution and promote water conservation. Designed with Figma for UI/UX planning and developed using HTML, CSS, and JavaScript with a clean and user-friendly interface.",
+                            "tags": ["HTML", "CSS", "JavaScript", "Figma", "UI/UX", "Responsive Design"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

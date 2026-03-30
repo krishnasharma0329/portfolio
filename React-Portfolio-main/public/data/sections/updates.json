@@ -1,0 +1,143 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tablet-screen-button",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "info": "Apps published"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-star",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "info": "Stars on GitHub"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "10+",
+                            "info": "Countries visited"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "07",
+                            "info": "Open-source projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "info": "Coffees consumed"
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Quick **Facts**" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2022",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Relocated to **Jaipur!**",
+                            "text": "Successfully transitioned to Jaipur to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "05/12/2023",
+                        "end": null
+                    },
+                    "links": [
+                        {"string": "see_more", "href": "https://youtube.com"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Started my own **YouTube channel**!",
+                            "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "11/05/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Working on a new **mobile project**!",
+                            "text": "Currently developing a mobile application that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific market needs."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
